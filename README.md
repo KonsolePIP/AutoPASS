@@ -1,5 +1,4 @@
-# AutoPASS-v0.0.4
-Primeiro lançamento dele, sem duvidas que terá alguns bugs, ou muitos.
+#AutoPASS
 
- [🔨] Correção de bugs.
- [🛠] Testando o arquivo "Atualizar".
+AutoPASS como o nome diz é um aplicativo que Cria Senhas automaticamente.
+Simples, fácil e rapido.
